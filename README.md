@@ -25,9 +25,9 @@ The platform provides:
 - Exploring workflow and analytics improvements
 
 ## Tech Stack
-- Backend: Python / FastAPI (or mention what you used)
-- Database: (MySQL / PostgreSQL / SQLite)
-- Frontend: (HTML/CSS/JS / React if used)
+- Backend: Python / FastAPI
+- Database: (MySQL / SQLite)
+- Frontend: (HTML/CSS/JS / React)
 
 ## Future Enhancements
 - Advanced analytics dashboard
